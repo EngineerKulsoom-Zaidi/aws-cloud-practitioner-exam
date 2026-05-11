@@ -58,8 +58,16 @@ The exam is divided into four domains. Understanding the weightage helps priorit
 ---
 
 ## 🏆 Practice Resources
-- **[Full-Length Mock Exam (65 Questions)](./AWS-CLF-C02-Mock-Exam.md)** - My custom-built practice test.
-- **[Official AWS Sample Questions](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16434/exam-prep-official-question-set-aws-certified-cloud-practitioner-clf-c02-english)**
+
+Explore the full-length mock exams below. Each test contains 65 questions designed to simulate the actual CLF-C02 exam environment.
+
+| Exam Set | Description | Link |
+| :--- | :--- | :--- |
+| **Mock Test 1** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test1.md) |
+| **Mock Test 2** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test2.md) |
+| **Mock Test 3** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test3.md) |
+
+> 💡 **Official Resource:** [Official AWS Sample Question Set](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16434/exam-prep-official-question-set-aws-certified-cloud-practitioner-clf-c02-english)
 
 ---
 
