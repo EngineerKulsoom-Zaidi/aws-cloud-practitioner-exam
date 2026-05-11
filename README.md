@@ -2,8 +2,9 @@
 
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified--Cloud--Practitioner-orange?style=for-the-badge&logo=amazon-aws)
 ![Exam Version](https://img.shields.io/badge/Exam-CLF--C02-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-Welcome! This repository is a comprehensive guide for the **AWS Certified Cloud Practitioner (CLF-C02)** exam. It includes a deep dive into the syllabus, topic weightage, and practice materials.
+Welcome! This repository is a comprehensive guide for the **AWS Certified Cloud Practitioner (CLF-C02)** exam. Curated by a Cloud DevOps specialist, it includes a deep dive into the syllabus, topic weightage, and highly realistic practice materials.
 
 ---
 
@@ -23,14 +24,12 @@ The AWS Certified Cloud Practitioner validates an overall understanding of the A
 
 ## 📊 Exam Domains & Weightage
 
-The exam is divided into four domains. Understanding the weightage helps prioritize study time:
-
 | Domain | % of Exam | Key Focus Areas |
 | :--- | :--- | :--- |
 | **1. Cloud Concepts** | 24% | AWS Value Prop, Cloud Economics, Design Principles |
-| **2. Security & Compliance** | 30% | Shared Responsibility Model, IAM, Shield, WAF, Compliance |
-| **3. Cloud Technology** | 34% | EC2, S3, RDS, Lambda, VPC, Route 53, Auto Scaling |
-| **4. Billing, Pricing & Support** | 12% | Savings Plans, Cost Explorer, Budgets, Support Plans |
+| **2. Security & Compliance** | 30% | Shared Responsibility, IAM, Shield, WAF, Artifact |
+| **3. Cloud Technology** | 34% | Compute (EC2/Lambda), Storage (S3/EBS), Networking (VPC) |
+| **4. Billing, Pricing & Support** | 12% | Cost Explorer, Budgets, Support Plans (Enterprise/Business) |
 
 ---
 
@@ -43,13 +42,13 @@ The exam is divided into four domains. Understanding the weightage helps priorit
 ### 2. Security & Compliance
 - **Shared Responsibility Model:** AWS is responsible for security **OF** the cloud; Customer is responsible for security **IN** the cloud.
 - **IAM:** Users, Groups, Roles, and Policies (Principle of Least Privilege).
-- **Network Security:** Security Groups (stateful) vs. Network ACLs (stateless).
+- **Security Services:** AWS KMS, Secrets Manager, GuardDuty, Inspector, and WAF.
 
 ### 3. Technology (Core Services)
 - **Compute:** EC2 (VMs), Lambda (Serverless), ECS/EKS (Containers), Fargate.
 - **Storage:** S3 (Object), EBS (Block), EFS (File), Glacier (Archive).
 - **Database:** RDS (SQL), DynamoDB (NoSQL), Aurora, Redshift (Data Warehouse).
-- **Networking:** VPC, Subnets, Internet Gateway, NAT Gateway, Direct Connect.
+- **Networking:** VPC, Subnets, Internet Gateway, NAT Gateway, Direct Connect, CloudFront.
 
 ### 4. Billing and Pricing
 - **Pricing Models:** On-Demand, Reserved Instances, Spot Instances, Savings Plans.
@@ -59,17 +58,12 @@ The exam is divided into four domains. Understanding the weightage helps priorit
 
 ## 🏆 Practice Resources
 
-Explore the full-length mock exams below. Each test contains 65 questions designed to simulate the actual CLF-C02 exam environment.
+Explore the full-length mock exams below. Each test contains 65 questions designed to simulate the actual CLF-C02 exam environment with realistic distractors.
 
 | Exam Set | Description | Link |
 | :--- | :--- | :--- |
 | **Mock Test 1** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test1.md) |
 | **Mock Test 2** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test2.md) |
-| **Mock Test 3** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test3.md) |
-| **Mock Test 4** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test4.md) |
-| **Mock Test 5** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test5.md) |
-
-> 💡 **Official Resource:** [Official AWS Sample Question Set](https://explore.skillbuilder.aws/learn/course/external/view/elearning/16434/exam-prep-official-question-set-aws-certified-cloud-practitioner-clf-c02-english)
 
 ---
 
@@ -81,11 +75,24 @@ Explore the full-length mock exams below. Each test contains 65 questions design
 
 ---
 
-## 👩‍💻 About the Author
-**Kulsoom Zaidi** *Cloud DevOps Engineer | IaC & CI/CD Specialist*
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kulsoom-zaidi-609420222)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zaidikulsoom263@gmail.com)
+## 👩‍💻 About the Author
+
+### **Kulsoom Zaidi** 
+**Cloud DevOps Engineer | IaC & CI/CD Specialist**
+
+I specialize in building automated, scalable, and resilient cloud infrastructures. My expertise lies in Infrastructure as Code (Terraform/CloudFormation) and streamlining deployment lifecycles through robust CI/CD pipelines.
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kulsoom-zaidi-609420222)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EngineerKulsoom-Zaidi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaidikulsoom263@gmail.com)
+
+---
 
 ---
 *Disclaimer: This repository is for educational purposes and is not affiliated with Amazon Web Services (AWS).*
