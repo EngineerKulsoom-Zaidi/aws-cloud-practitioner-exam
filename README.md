@@ -67,6 +67,8 @@ Explore the full-length mock exams below. Each test contains 65 questions design
 | **Mock Test 3** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test3.md) |
 | **Mock Test 4** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test4.md) |
 | **Mock Test 5** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test5.md) |
+| **Mock Test 6** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test6.md) |
+| **Mock Test 7** | Full-Length Practice Exam (65 Questions) | [View Test](./mock-tests/mock-test7.md) |
 
 ---
 
